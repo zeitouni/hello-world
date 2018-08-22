@@ -1,2 +1,5 @@
 # hello-world
-Introduction to Github
+
+Hello,
+
+Let's see what we can do with some code.
